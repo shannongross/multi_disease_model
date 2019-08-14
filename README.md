@@ -7,4 +7,4 @@ MSc Engineering and Policy Analysis
 * The model is extensively analyzed using the **exploratory modeling workbench**, which is available at: https://github.com/quaquel/EMAworkbench.
 * Specifically, the analysis follows the **MORDM** approach outlined by
 Kasprzyk et al. (2013) https://doi.org/10.1016/j.envsoft.2012.12.007. The steps of the MORDM analysis + visualizations can be found in four Jupyter notebooks above. Generated output for each step is saved in the **results** directory.
-* The model is extended to consider four different problem formulations, which are specified in*disease_model_problems.py*. These formulations are used to test how subjective decision-maker perspectives can influence the subsequent Pareto-approximate front obtained.
+* The model is extended to consider four different problem formulations, which are specified in *disease_model_problems.py*. These formulations are used to test how subjective decision-maker perspectives can influence the subsequent Pareto-approximate front obtained.
